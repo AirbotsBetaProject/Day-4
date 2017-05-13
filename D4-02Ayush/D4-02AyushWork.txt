@@ -3,3 +3,5 @@
 2. The urllib package throws unicode error sometimes when crawling directly via a link, this error won't occur in case of text file url extraction.
 
 3. Folder "neg" and "neg2" contains negative images, of locations such as office, for training purposes. 
+
+4. Tried implementation of emotion detection using fisherfaces for smaller dataset, the mean accuracy obtained was 40%. (Improved this accuracy and dataset size uploaded in Day5 work)
