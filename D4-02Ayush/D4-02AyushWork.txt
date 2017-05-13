@@ -1,0 +1,5 @@
+1. Two different code for crawling directly via a link or via links stored in text files.
+
+2. The urllib package throws unicode error sometimes when crawling directly via a link, this error won't occur in case of text file url extraction.
+
+3. Folder "neg" and "neg2" contains negative images, of locations such as office, for training purposes. 
