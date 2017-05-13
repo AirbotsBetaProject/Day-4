@@ -1,0 +1,5 @@
+Work Done-:
+
+.Serach for images from different sources like image.org etc.
+.Extract the images and  store it into negative images resize and  convert it into grey scale 
+.Extract the images and store it into positive images and seggregate into knife  ,hand gun  and rifle .
